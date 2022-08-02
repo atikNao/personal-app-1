@@ -1,0 +1,21 @@
+//bootstrap v5 mudule
+@use "./custom";
+
+// Import the componets
+@use "./componets/animations";
+@use "./componets/buttons";
+@use "./componets/mixins";
+@use "./componets/typography";
+
+
+//Import the section
+@use "./sections/navbar";
+@use "./sections/intro-section";
+@use "./sections/companies";
+@use "./sections/services";
+@use "./sections/testmonials";
+@use "./sections/faq";
+@use "./sections/portfolio";
+@use "./sections/get-started";
+@use "./sections/footer";
+

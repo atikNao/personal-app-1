@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-v5-sass",
+  "version": "1.0.0",
+  "description": "Learn bootstrap v5 and sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "demo-repo"
+  },
+  "keywords": [
+    "bootstrap-v5",
+    "sass",
+    "learn",
+    "boodstrap\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[-\u001b[F\u001b[C\u001b[B\u001b[F\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[D\u001b[D\u001b[D"
+  ],
+  "author": "Atikur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.2.0-beta1",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^9.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
